@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Khaled Amr 👋</h1>
-<h3 align="center">Full-Stack Web Developer | Founder of WaveDev | 3D Web Enthusiast</h3>
+<h3 align="center">Full-Stack Web Developer | 3D Web Enthusiast </h3>
 
 <p align="center">
   I am a software developer deeply passionate about building scalable web applications, immersive 3D experiences, and integrating AI agents into modern software. I thrive on turning complex problems into clean, futuristic visual interfaces.
@@ -16,7 +16,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 - 🔭 I’m currently the founder of **WaveDev**, providing full-stack development and digital solutions.
 - 💻 Building **SpaceEdu**, an immersive space education platform featuring a 3D solar system, physics simulator, and AI companion.
 - 🧠 Deeply interested in integrating AI into platforms (like my work on **Sawaany**).
@@ -46,7 +46,6 @@
 
 ### 🏆 Featured Projects
 * **SpaceEdu:** A Vite-based space education platform optimized with real-time 3D physics and an AI companion named ARIA.
-* **Sawaany:** Advanced AI agents integration project with highly structured technical documentation.
 * **King-store:** A high-fidelity, multi-language e-commerce platform with a fully functional admin dashboard.
 * **Warehouse Management System:** A robust LAN-networked inventory architecture powered by Node.js and PostgreSQL.
 
