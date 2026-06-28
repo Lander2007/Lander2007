@@ -17,9 +17,8 @@
 ---
 
 ### About Me
-- 🔭 I’m currently the founder of **WaveDev**, providing full-stack development and digital solutions.
 - 💻 Building **SpaceEdu**, an immersive space education platform featuring a 3D solar system, physics simulator, and AI companion.
-- 🧠 Deeply interested in integrating AI into platforms (like my work on **Sawaany**).
+- 🧠 Deeply interested in integrating AI into platforms.
 - 🎨 Aesthetic preference: Dark mode, glassmorphism, and minimal, futuristic designs.
 - ⚡ Fun fact: I love pushing the limits of the web with `Three.js` and `React Three Fiber`.
 
