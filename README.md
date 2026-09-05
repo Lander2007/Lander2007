@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Khaled Amr 👋</h1>
-<h3 align="center">Full-Stack Web Developer | 3D Web Enthusiast </h3>
+<h3 align="center">FrontEnd Web Developer | 3D Web Enthusiast </h3>
 
 <p align="center">
   I am a software developer deeply passionate about building scalable web applications, immersive 3D experiences, and integrating AI agents into modern software. I thrive on turning complex problems into clean, futuristic visual interfaces.
