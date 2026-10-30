@@ -56,26 +56,11 @@
 <summary><strong>01 / SpaceEdu &mdash; Real-Time Celestial Simulation Platform &amp; AI Copilot</strong></summary>
 <br>
 
-*An interactive 3D astrophysics simulation environment engineered to render large-scale astronomical systems natively in the browser at a persistent 60 frames per second.*
+<div align="center">
+  <img src="./assets/project-spaceedu.svg" alt="SpaceEdu 3D Architecture" width="100%" />
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/THREE.JS-381932?style=for-the-badge&logo=three.js&logoColor=C6F277" alt="Three.js" />
-  <img src="https://img.shields.io/badge/REACT_THREE_FIBER-381932?style=for-the-badge&logo=react&logoColor=C6F277" alt="R3F" />
-  <img src="https://img.shields.io/badge/WEBGL_&_SHADERS-381932?style=for-the-badge&logo=opengl&logoColor=C6F277" alt="WebGL" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-381932?style=for-the-badge&logo=typescript&logoColor=C6F277" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/VITE-381932?style=for-the-badge&logo=vite&logoColor=C6F277" alt="Vite" />
-</p>
-
-```
-+---------------------+      Draw Call Batching      +-----------------------------+
-| Viewport Controller | ---------------------------> | React Three Fiber Scene     |
-+---------------------+                              +-----------------------------+
-           |                                                        |
-           v                                                        v
-+---------------------+       Context-Aware Streams  +-----------------------------+
-| Keplerian Physics   | <--------------------------- | ARIA AI Autonomous Guidance |
-+---------------------+                              +-----------------------------+
-```
+<br>
 
 ### Architectural Decisions &amp; Engineering Highlights
 - **Instanced Geometry Pipeline:** Replaced individual mesh render passes with instanced buffer geometry for asteroid belts and stellar dust, shrinking GPU draw calls from ~1,200 to under 10 passes per frame.
@@ -133,64 +118,14 @@
 
 ## 03 // CAPABILITIES &bull; ENGINEERING ARSENAL
 
-### Core Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/THREE.JS-381932?style=for-the-badge&logo=three.js&logoColor=C6F277" alt="Three.js" />
-  <img src="https://img.shields.io/badge/REACT_THREE_FIBER-381932?style=for-the-badge&logo=react&logoColor=C6F277" alt="R3F" />
-  <img src="https://img.shields.io/badge/WEBGL_&_SHADERS-381932?style=for-the-badge&logo=opengl&logoColor=C6F277" alt="WebGL" />
-  <img src="https://img.shields.io/badge/REACT_18+-381932?style=for-the-badge&logo=react&logoColor=C6F277" alt="React" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-381932?style=for-the-badge&logo=typescript&logoColor=C6F277" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/NEXT.JS-381932?style=for-the-badge&logo=nextdotjs&logoColor=C6F277" alt="Next.js" />
-  <img src="https://img.shields.io/badge/VITE-381932?style=for-the-badge&logo=vite&logoColor=C6F277" alt="Vite" />
-  <img src="https://img.shields.io/badge/TAILWIND_CSS-381932?style=for-the-badge&logo=tailwindcss&logoColor=C6F277" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/NODE.JS-381932?style=for-the-badge&logo=nodedotjs&logoColor=C6F277" alt="Node" />
-  <img src="https://img.shields.io/badge/POSTGRESQL-381932?style=for-the-badge&logo=postgresql&logoColor=C6F277" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/FIGMA-381932?style=for-the-badge&logo=figma&logoColor=C6F277" alt="Figma" />
-  <img src="https://img.shields.io/badge/GIT-381932?style=for-the-badge&logo=git&logoColor=C6F277" alt="Git" />
-</p>
-
-<br>
-
-| Domain | Core Stack | Implementation Discipline |
-| :--- | :--- | :--- |
-| **Real-Time 3D &amp; Motion** | Three.js, React Three Fiber, GLSL, WebGL | Buffer geometry instancing, procedural shaders, camera rigs, 60 FPS enforcement |
-| **Frontend Architecture** | React 18+, TypeScript, Next.js, Vite | Immutable state patterns, frame budget enforcement, strict typing, modular hooks |
-| **Interface Design** | Tailwind CSS, Motion, Figma | High-contrast editorial systems, tactile micro-interactions, responsive typography |
-| **Backend &amp; Persistence** | Node.js, Express, PostgreSQL, REST | ACID transaction pipelines, query optimization, connection pooling, RBAC |
-| **Engineering Workflow** | Git, Docker, Bash, Linux / Unix | Deterministic build pipelines, semantic versioning, containerization, linting |
+<div align="center">
+  <img src="./assets/capabilities.svg" alt="Engineering Capabilities — Form / Shift" width="100%" />
+</div>
 
 ---
 
 ## 04 // CONTACT &bull; DIRECT DISPATCH
 
-| Channel | Destination / Endpoint | Purpose |
-| :--- | :--- | :--- |
-| **Electronic Mail** | [kaledamr457@gmail.com](mailto:kaledamr457@gmail.com) | Direct contracts, consulting, technical proposals |
-| **LinkedIn Network** | [Khaled Amr](https://www.linkedin.com/in/kh%E1%A5%B2%E1%A5%A3%E1%A5%B1d-amr-263334343/) | Professional credentials, references, and network |
-| **Version Control** | [@Lander2007](https://github.com/Lander2007) | Open-source source code, architecture patterns, commits |
-
-<br>
-
-```bash
-$ curl -s https://api.github.com/users/Lander2007 | jq '{name, studio, specialization, location}'
-{
-  "name": "Khaled Amr",
-  "studio": "Form / Shift",
-  "specialization": "Frontend & Real-Time 3D Web",
-  "location": "Cairo, Egypt",
-  "availability": "Available for contractual mandates and engineering roles"
-}
-```
-
-<br><br>
-
 <div align="center">
-
-  <img src="./assets/footer.svg" alt="Khaled Amr — Form / Shift Footer" width="100%" />
-
-  <br>
-
-  <sub>Khaled Amr &bull; Form / Shift &bull; Cairo, Egypt &bull; All Systems Nominal</sub>
-
+  <img src="./assets/contact-footer.svg" alt="Contact & Direct Dispatch — Form / Shift" width="100%" />
 </div>
